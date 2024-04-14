@@ -15,25 +15,24 @@ A Data Science graduate student with a love for analytics, insights, and buildin
     <img alt="Twitter" src="https://github.com/Austin-Gabriel/my-profile-assets/blob/main/twitter.svg" height="30" />
   </a>
   <a href="https://www.linkedin.com/in/blessingaustin/">
-    <img alt="LinkedIn" src="linkedin.svg" height="30" />
+    <img alt="LinkedIn" src="https://github.com/Austin-Gabriel/my-profile-assets/blob/main/linkedin.svg" height="30" />
   </a>
-  <!-- Add other social links similarly -->
 
 ## Languages and Tools
   <!-- Languages and Tools -->
-  <!-- Make sure to replace 'path_to_tool_icon' with the actual paths to the tool icons -->
   <a href="https://www.python.org">
-    <img alt="Python" src="path_to_python_icon" height="40" />
+    <img alt="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="40" />
+  </a>
+  <a href="https://https://jupyter.org/">
+    <img alt="Jupyter" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="40" />
   </a>
   <a href="https://nodejs.org">
     <img alt="Node.js" src="path_to_nodejs_icon" height="40" />
   </a>
-  <!-- Add other language/tool links similarly -->
-</p>
-<p align="center">
-  <!-- Social Icons -->
-  <a href="https://twitter.com/blessinggaustin">
-    <img alt="X" src="[path_to_twitter_icon](https://github.com/Austin-Gabriel/my-profile-assets/blob/main/twitter.svg)" height="30" />
+  <a href="https://nodejs.org">
+    <img alt="Node.js" src="path_to_nodejs_icon" height="40" />
   </a>
+  
+</p>
  
   

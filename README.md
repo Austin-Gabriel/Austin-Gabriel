@@ -43,7 +43,7 @@ A Data Science graduate student with a love for analytics, insights, and buildin
     <img alt="MATLAB" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" height="40" />
   </a>
   <a href="https://en.cppreference.com/w/c/language/functions#:~:text=A%20function%20is%20a%20C,user%2Ddefined%20or%20library%20functions.">
-    <img alt="C#" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.pn" height="40" />
+    <img alt="C#" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" height="40" />
   </a>
   <a href="https://www.java.com/en/">
     <img alt="Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" height="40" />
@@ -52,25 +52,25 @@ A Data Science graduate student with a love for analytics, insights, and buildin
     <img alt="PowerBI" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" height="40" />
   </a>
   <a href="https://spark.apache.org/">
-    <img alt="Spark" src="https://www.r-project.org/logo/Rlogo.svg" height="40" />
+    <img alt="Spark" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" height="40" />
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
-    <img alt="SQL" src="https://www.r-project.org/logo/Rlogo.svg" height="40" />
+  <a href="https://cassandra.apache.org/_/index.html">
+    <img alt="Cassandra" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png" height="40" />
   </a>
   <a href="https://www.mysql.com/">
-    <img alt="MySQL" src="https://www.r-project.org/logo/Rlogo.svg" height="40" />
+    <img alt="MySQL" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="40" />
   </a>
   <a href="https://www.oracle.com/">
-    <img alt="Oracle" src="https://www.r-project.org/logo/Rlogo.svg" height="40" />
+    <img alt="Oracle" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" height="40" />
   </a>
   <a href="https://www.mongodb.com/">
-    <img alt="MongoDB" src="https://www.r-project.org/logo/Rlogo.svg" height="40" />
+    <img alt="MongoDB" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.pn" height="40" />
   </a>
   <a href="https://unity.com/">
-    <img alt="Unity" src="https://www.r-project.org/logo/Rlogo.svg" height="40" />
+    <img alt="Unity" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" height="40" />
   </a>
   <a href="https://www.unrealengine.com/en-US">
-    <img alt="Unreal" src="https://www.r-project.org/logo/Rlogo.svg" height="40" />
+    <img alt="Unreal" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00" height="40" />
  
  
 

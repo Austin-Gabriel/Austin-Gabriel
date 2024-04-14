@@ -12,10 +12,10 @@ A Data Science graduate student with a love for analytics, insights, and buildin
 <p align="left">
   <!-- Social Icons -->
   <a href="https://twitter.com/blessinggaustin">
-    <img alt="Twitter" src="https://github.com/Austin-Gabriel/my-profile-assets/blob/main/twitter.svg" height="30" />
+    <img alt="Twitter" src="https://github.com/Austin-Gabriel/my-profile-assets/blob/main/twitter.svg" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/blessingaustin/">
-    <img alt="LinkedIn" src="https://github.com/Austin-Gabriel/my-profile-assets/blob/main/linkedin.svg" height="30" />
+    <img alt="LinkedIn" src="https://github.com/Austin-Gabriel/my-profile-assets/blob/main/linkedin.svg" height="40" />
   </a>
 
 ## Languages and Tools
@@ -26,13 +26,14 @@ A Data Science graduate student with a love for analytics, insights, and buildin
   <a href="https://https://jupyter.org/">
     <img alt="Jupyter" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="40" />
   </a>
-  <a href="https://nodejs.org">
-    <img alt="Node.js" src="path_to_nodejs_icon" height="40" />
+  <a href="https://www.tensorflow.org/">
+    <img alt="TensorFlow" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" height="40" />
   </a>
-  <a href="https://nodejs.org">
-    <img alt="Node.js" src="path_to_nodejs_icon" height="40" />
+  <a href="https://www.r-project.org/">
+    <img alt="R" src="path_to_nodejs_icon" height="40" />
   </a>
   
 </p>
  
-  
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+

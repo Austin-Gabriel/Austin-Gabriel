@@ -4,21 +4,14 @@ A Data Science graduate student with a love for analytics, insights, and buildin
 
 - 🔭 I’m currently working on machine learning projects and expanding my knowledge in advanced analytics.
 - 🌱 I’m currently learning more about cloud services like AWS and Azure to enhance my data engineering skills.
-- 👯 I’m looking to collaborate on open-source projects in the field of data analysis or machine learning.
-- 💬 Ask me about Python, R, SQL, and data visualization.
-- 📫 How to reach me: [your_email@example.com](mailto:your_email@example.com)
+- 👯 I’m looking to collaborate on open-source projects in the field of data science & machine learning.
+- 💬 Ask me about Python, R, SQL, data visualization...
+- 📫 How to reach me for collaborations or a conversations: [blessingaustinn@gmail.com](mailto:blessingaustinn@gmail.com)
 
 ## Connect with me:
-[![Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=your-linkedin-url)](your-linkedin-url)
-
-## Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)
-...and so on...
-
-<!---
-Austin-Gabriel/Austin-Gabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <!-- Social Icons -->
+  <a href="https://twitter.com/blessinggaustin">
+    <img alt="X" src="[path_to_twitter_icon](https://github.com/Austin-Gabriel/my-profile-assets/blob/main/twitter.svg)" height="30" />
+  </a>
+ 

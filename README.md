@@ -9,7 +9,7 @@ A Data Science graduate student with a love for analytics, insights, and buildin
 - 📫 How to reach me for collaborations or a conversations: [blessingaustinn@gmail.com](mailto:blessingaustinn@gmail.com)
 
 ## Connect with me:
-<p align="center">
+<p align="left">
   <!-- Social Icons -->
   <a href="https://twitter.com/blessinggaustin">
     <img alt="Twitter" src="https://github.com/Austin-Gabriel/my-profile-assets/blob/main/twitter.svg" height="30" />

@@ -31,7 +31,7 @@ Beyond data, I have a keen interest in gaming and creating immersive 3D environm
     <img alt="TensorFlow" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" height="40" />
   </a>
   <a href="https://www.r-project.org/">
-    <img alt="R" src="https://github.com/Austin-Gabriel/my-profile-assets/blob/main/r.jpg" height="40" />
+    <img alt="R" src="https://www.r-project.org/logo/Rlogo.svg" height="40" />
   </a>
   
 </p>

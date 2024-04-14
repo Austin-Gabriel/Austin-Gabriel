@@ -1,11 +1,12 @@
 # Hi 👋, I'm Blessing
 
 A Data Science graduate student with a love for analytics, insights, and building predictive models.
+Beyond data, I have a keen interest in gaming and creating immersive 3D environments using Unity, both for fun😉 and academic purposes.
 
-- 🔭 I’m currently working on machine learning projects and expanding my knowledge in advanced analytics.
+- 🔭 I’m currently working on machine learning projects and expanding my knowledge in advanced analytics and statistics.
 - 🌱 I’m currently learning more about cloud services like AWS and Azure to enhance my data engineering skills.
 - 👯 I’m looking to collaborate on open-source projects in the field of data science & machine learning.
-- 💬 Ask me about Python, R, SQL, data visualization...
+- 💬 Ask me about Python, R, SQL, Gaming...
 - 📫 How to reach me for collaborations or a conversations: [blessingaustinn@gmail.com](mailto:blessingaustinn@gmail.com)
 
 ## Connect with me:
@@ -30,10 +31,10 @@ A Data Science graduate student with a love for analytics, insights, and buildin
     <img alt="TensorFlow" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" height="40" />
   </a>
   <a href="https://www.r-project.org/">
-    <img alt="R" src="path_to_nodejs_icon" height="40" />
+    <img alt="R" src="https://github.com/Austin-Gabriel/my-profile-assets/blob/main/r.jpg" height="40" />
   </a>
   
 </p>
  
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Blessing's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 

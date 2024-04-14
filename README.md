@@ -1,4 +1,4 @@
-# Hi 👋, I'm Blessing
+  # Hi 👋, I'm Blessing
 
 A Data Science graduate student with a love for analytics, insights, and building predictive models.
 

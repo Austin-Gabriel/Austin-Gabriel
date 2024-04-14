@@ -1,5 +1,4 @@
-@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Austin-Gabriel Blessing
+👋 Hi, I’m @Austin-Gabriel Blessing
 - 👀 I’m interested in web design and development
 - 🌱 I’m currently learning R programming and Python
 - 💞️ I’m looking to collaborate on websites

@@ -3,7 +3,7 @@
 A Data Science graduate student with a love for analytics, insights, and building predictive models.
 
 - 🔭 I’m currently working on machine learning projects and expanding my knowledge in advanced analytics and statistics.
-- 🌱 I’m currently learning more about cloud services like AWS and Azure to enhance my data engineering skills.
+- 🌱 Immersing myself in cloud services like AWS and Azure to enhance my data engineering skills.
 - 🕹️I have a keen interest in gaming and creating immersive 3D environments using Unity, both for fun😉 and academic purposes.
 - 💬 Ask me about Python, R, SQL, Gaming...
 - 📫 How to reach me for collaborations or a conversations: [blessingaustinn@gmail.com](mailto:blessingaustinn@gmail.com)

@@ -40,7 +40,7 @@ A Data Science graduate student with a love for analytics, insights, and buildin
     <img alt="C++" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="40" />
   </a>
   <a href="https://www.mathworks.com/products/matlab.html">
-    <img alt="MATLAB" src=" https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" height="40" />
+    <img alt="MATLAB" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" height="40" />
   </a>
   <a href="https://en.cppreference.com/w/c/language/functions#:~:text=A%20function%20is%20a%20C,user%2Ddefined%20or%20library%20functions.">
     <img alt="C#" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.pn" height="40" />

@@ -62,6 +62,9 @@ A Data Science graduate student with a love for analytics, insights, and buildin
   </a>
   <a href="https://www.oracle.com/">
     <img alt="Oracle" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" height="50" />
+</p>
+    
+<p align=left >
   </a>
   <a href="https://www.mongodb.com/">
     <img alt="MongoDB" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="50" />
@@ -71,10 +74,6 @@ A Data Science graduate student with a love for analytics, insights, and buildin
   </a>
   <a href="https://www.unrealengine.com/en-US">
     <img alt="Unreal" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00" height="50" />
- 
- 
-
-  
 </p>
  
 ![Blessing's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)

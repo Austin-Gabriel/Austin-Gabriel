@@ -74,6 +74,5 @@ A Data Science graduate student with a love for analytics, insights, and buildin
   <a href="https://www.unrealengine.com/en-US">
     <img alt="Unreal" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00" height="50" />
 </p>
- 
-![Blessing's GitHub stats ](https://github-readme-stats.vercel.app/api?username=Austin-Gabriel&show_icons=true) 
+
 
